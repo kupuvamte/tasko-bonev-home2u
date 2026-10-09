@@ -1,2 +1,3 @@
-# tasko-bonev-home2u
-SEO landing page for a Bulgarian real estate broker with improved structure and design.
+# Google Search Console Verification File
+# Replace XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX with your actual verification code
+# google-site-verification=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX

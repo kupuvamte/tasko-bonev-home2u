@@ -1,0 +1,10 @@
+document.addEventListener('DOMContentLoaded', function () {
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener('click', function (event) {
+            const href = this.getAttribute('href');
+            if (href !== '#' && document.querySelector(href)) {
+                event.preventDefault();
+            }
+        });
+    });
+});
